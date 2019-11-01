@@ -1,0 +1,11 @@
+﻿AnhTruong|096|vip@camxucvn.com
+BacTruong|096|vip@camxucvn.com
+CauTruong|096|vip@camxucvn.com
+DiTruong|096|vip@camxucvn.com
+EmTruong|096|vip@camxucvn.com
+GiaTruong|096|vip@camxucvn.com
+TranCongTruong|096|vip@camxucvn.com
+AnhCuaTruong|096|vip@camxucvn.com
+ZungTruong|096|vip@camxucvn.com
+Jadan|097|vip@camxucvn.com
+Kadan|111|vip@camxucvn.com
