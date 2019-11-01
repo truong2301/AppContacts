@@ -121,6 +121,7 @@ namespace AppG2.View
         }
         /// <summary>
         /// Sort theo kí tự bắt đầu
+        /// Trường đẹp trai
         /// </summary>
         /// <param name="ASC">Kí tự bắt đầu</param>
         private void SortBy(char ASC)
